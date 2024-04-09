@@ -1,0 +1,45 @@
+#navbar--section {
+  background-color: aqua;
+}
+#hero--section {
+  background-image: url(https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKadPVU7XmHE/v1/-1x-1.jpg);
+  height: 80vh;
+  align-content: center;
+  font: bolder;
+  font-size: 4rem;
+  color: greenyellow;
+}
+.button--section {
+  font-size: 3rem;
+  background-color: blanchedalmond;
+}
+#menu--section {
+  max-width: 1100px;
+  margin: 5rem auto;
+}
+#about--section {
+  background-color: aqua;
+}
+#contact--section {
+  width: 80%;
+  margin: 1rem auto;
+  grid-column: 2rem;
+  border: 20dvh;
+  background-color: brown;
+  color: aqua;
+}
+
+#social--links {
+  color: black;
+  border: 2px solid green;
+  height: 30px;
+  width: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5rem;
+  grid-column-end: 10rem;
+  float: inline-end;
+  column-gap: 20px;
+  border-radius: 100%;
+}
